@@ -1,0 +1,10 @@
+{"level":"error","message":"Error 500: logger is not defined","service":"air-india-service","stack":"ReferenceError: logger is not defined\n    at forgotPassword (E:\\BusRoutes\\app\\controllers\\authController.js:470:6)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-11-16 19:40:11:4011"}
+{"level":"error","message":"Error 500: error is not defined","service":"air-india-service","stack":"ReferenceError: error is not defined\n    at forgotPassword (E:\\BusRoutes\\app\\controllers\\authController.js:471:51)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-11-16 19:41:09:419"}
+{"level":"error","message":"API Forgot Password Error: Email dispatch failed","service":"air-india-service","timestamp":"2026-11-16 19:42:08:428"}
+{"level":"error","message":"checkAuth Error: secret or public key must be provided","service":"air-india-service","timestamp":"2026-11-16 21:26:03:263"}
+{"level":"error","message":"checkAuth Error: secret or public key must be provided","service":"air-india-service","timestamp":"2026-11-16 21:28:21:2821"}
+{"level":"error","message":"checkAuth Error: invalid token","service":"air-india-service","timestamp":"2026-11-16 21:29:08:298"}
+{"level":"error","message":"checkAuth Error: secret or public key must be provided","service":"air-india-service","timestamp":"2026-11-16 21:31:47:3147"}
+{"level":"error","message":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wsixrmc.mongodb.net","service":"air-india-service","timestamp":"2026-11-16 23:44:02:442"}
+{"level":"error","message":"API Google Auth Error: Cannot read properties of undefined (reading 'tokensConfigured')","service":"air-india-service","timestamp":"2026-11-17 01:24:24:2424"}
+{"level":"error","message":"API Refresh Token Error: Cannot read properties of undefined (reading 'tokensConfigured')","service":"air-india-service","timestamp":"2026-11-17 01:24:24:2424"}
