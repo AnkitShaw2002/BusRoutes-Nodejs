@@ -176,3 +176,5 @@
 {"level":"info","message":"Cloudinary Configured","service":"air-india-service","timestamp":"2026-11-17 01:26:49:2649"}
 {"level":"info","message":"Redis client disabled in test environment.","service":"air-india-service","timestamp":"2026-11-17 01:29:13:2913"}
 {"level":"info","message":"Cloudinary Configured","service":"air-india-service","timestamp":"2026-11-17 01:29:14:2914"}
+{"level":"info","message":"Redis client disabled in test environment.","service":"air-india-service","timestamp":"2026-11-17 02:03:49:349"}
+{"level":"info","message":"Cloudinary Configured","service":"air-india-service","timestamp":"2026-11-17 02:03:50:350"}
